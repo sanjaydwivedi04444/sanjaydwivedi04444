@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjay dwivedi
+- 👋 Hello, I'm Sanjay Dwivedi, a self-motivated and proactive Microsoft Full Stack Developer with over 15+ years of experience. My expertise lies in crafting robust solutions using a variety of technologies and frameworks.
 - 👀 I’m interested in working on the latest technology and challenges
 - 🌱 I’m currently learning Semantic Kernal and AI Bot Framework
 - 💞️ I’m looking to collaborate on Microsoft.Net Technology
@@ -7,8 +7,6 @@
 sanjaydwivedi04444/sanjaydwivedi04444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am self-motivated, proactive Microsoft Full Stack Developer with 12+ years of experience, specializing in C#, .Net Core, Web API, MVC, React/React Native, Angular, Redux, jQuery, JavaScript, Azure Service Bus, Cosmos DB, Azure SQL, APIM and Azure Function, Logic Apps, Azure PASS, SASS, Terraform, Azure Kubernetes, ARM template, AWS, Azure Bicep and Certified Azure Solution Architect, Azure Fundamentals, Exam 535. 
-
 1. Responsible for shipping high quality code, architecture and design direction, controlling technical debt, code reviews and promote collaboration and team engagement 
 2. Creation of proof of concept for our product solutions.
 3. Present and sell ideas & architecture to wider team and business stakeholders with supporting reasoning. 
