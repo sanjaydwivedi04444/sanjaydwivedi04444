@@ -11,10 +11,10 @@ I am self-motivated, proactive Microsoft Full Stack Developer with 12+ years of 
 
 1. Responsible for shipping high quality code, architecture and design direction, controlling technical debt, code reviews and promote collaboration and team engagement 
 2. Creation of proof of concept for our product solutions.
-#Present and sell ideas & architecture to wider team and business stakeholders with supporting reasoning. 
-#Mentor and Coach fellow leads & developers on Solution Architecture / Design & best practices 
-#Provides hands-on troubleshooting and consulting for solution challenges when needed 
-#Team player, keen to learn and understand business needs 
+3. Present and sell ideas & architecture to wider team and business stakeholders with supporting reasoning. 
+4. Mentor and Coach fellow leads & developers on Solution Architecture / Design & best practices 
+5. Provides hands-on troubleshooting and consulting for solution challenges when needed 
+6. Team player, keen to learn and understand business needs 
 
 # Skill Summary,
       
