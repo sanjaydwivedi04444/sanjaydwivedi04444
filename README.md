@@ -34,9 +34,11 @@ Moq and JustMock
 Cloud Architecture, Computing, Data (SQL Server), Networking, Security, Services (Service Fabric, Azure Data Factory, Event Hub, Service Bus, Event Hub, Event Grid, APIM, Key Vault, Application Insights
 ), Storage (Tables/Queues/Blobs/Files), Security and Identity Solutions.
 
-7.	Agile Techniques: User Stories, ATDD, TDD, Continuous Integration/Deployment, Continuous Testing, Pairing, Automated Testing, etc.
+Throughout my career, I've been committed to continuous learning and improvement, embracing Agile methodologies and staying updated with the latest technologies and best practices.
 
-8.	Platform: Azure PaaS to includes monolithic services (e.g., App Service Environments) and micro-services (Azure Service Fabric, Container Services, etc.) along with Docker Containers, App Insights. 
+8.	Agile Techniques: User Stories, ATDD, TDD, Continuous Integration/Deployment, Continuous Testing, Pairing, Automated Testing, etc.
 
-9.	Other Skills:
+9.	Platform: Azure PaaS to includes monolithic services (e.g., App Service Environments) and micro-services (Azure Service Fabric, Container Services, etc.) along with Docker Containers, App Insights. 
+
+10.	Other Skills:
 Team Management, Leadership, Business Analysis, Business Development, Collaborating with teams across different time zones and geographies, Customer Relationship Management (CRM), E-Commerce, Software Development Life Cycle (SDLC), Requirements Analysis, Service-Oriented Architecture (SOA), Solution Architecture
